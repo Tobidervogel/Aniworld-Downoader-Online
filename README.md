@@ -25,7 +25,7 @@ Follow the instructions
 
 
 ## Credits
-- **[Google Colab]([https://github.com/mpv-player/mpv.git](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)**: Python script Cloud service.
+- **[Google Colab](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)**: Python script Cloud service.
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp.git)**: Tool for downloading videos.
 - **[AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader)** Main Code
 
