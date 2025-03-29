@@ -1,4 +1,4 @@
-## Features
+# Features
 
 - **Episode Downloads**: Easily download single episodes or entire seasons in one go.
 - **Language Options**: Switch between German Dub, English Sub, or German Sub based on your preference.
@@ -16,7 +16,7 @@ Follow the instructions
 
 
 
-## TODO List
+# TODO List
 
 - [X] Online Downoad
 - [ ] Online Syncplay
@@ -24,31 +24,31 @@ Follow the instructions
 
 
 
-## Credits
+# Credits
 - **[Google Colab](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)**: Python script Cloud service.
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp.git)**: Tool for downloading videos.
 - **[AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader)** Main Code
 
   
 
-## Contributing
+# Contributing
 Contributions to AniWorld Downloader are welcome! Your input helps improve the project, whether it’s through:
 - Reporting bugs
 - Suggesting features
 - Submitting pull requests
 
-### Contributors
+## Contributors
 - **Tobidervogel** (since November 02, 2024)
 [![wakatime](https://wakatime.com/badge/github/Tobidervogel/Aniworld-Downoader-Online.svg)](https://wakatime.com/badge/github/Tobidervogel/Aniworld-Downoader-Online)
 
 
-## License
+# License
 This project is licensed under the **[MIT License](LICENSE)**.  
 For more details, see the LICENSE file.
 
 
 
-## Legal Disclaimer
+# Legal Disclaimer
 
 Aniworld-Downloader is intended only for accessing publicly available content and does not support or encourage piracy or copyright infringement. As the program's creator, I am not liable for, nor associated with, any external links or the content they lead to.
 
@@ -58,7 +58,7 @@ If you have concerns or objections about the content accessed via this program, 
 
 
 
-## Star History
+# Star History
 
 <a href="https://www.star-history.com/#Tobidervogel/Aniworld-Downoader-Online&Timeline">
  <picture>
