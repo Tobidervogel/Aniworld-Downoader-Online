@@ -25,7 +25,7 @@ Follow the instructions
 
 
 ## Credits
-- **[Google Colab]([https://github.com/mpv-player/mpv.git](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing))**: Python script Cloud service.
+- **[Google Colab]([https://github.com/mpv-player/mpv.git](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)**: Python script Cloud service.
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp.git)**: Tool for downloading videos.
 - **[AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader)** Main Code
 
@@ -37,9 +37,30 @@ Contributions to AniWorld Downloader are welcome! Your input helps improve the p
 - Suggesting features
 - Submitting pull requests
 
-
-- **Tobidervogel** (since March 29, 2025)
+### Contributors
+- **Tobidervogel** (since November 02, 2024)
 [![wakatime](https://wakatime.com/badge/github/Tobidervogel/Aniworld-Downoader-Online.svg)](https://wakatime.com/badge/github/Tobidervogel/Aniworld-Downoader-Online)
+
+
+## License
+This project is licensed under the **[MIT License](LICENSE)**.  
+For more details, see the LICENSE file.
+
+
+
+## Legal Disclaimer
+
+Aniworld-Downloader is intended only for accessing publicly available content and does not support or encourage piracy or copyright infringement. As the program's creator, I am not liable for, nor associated with, any external links or the content they lead to.
+
+All content accessed through this program is freely available online, and the program does not host or distribute copyrighted material. The program has no control over the nature, content, or availability of the linked websites.
+
+If you have concerns or objections about the content accessed via this program, please address them to the relevant website owners, administrators, or hosting providers. Thank you.
+
+
+
+## Star History
+
+
 
 
 
