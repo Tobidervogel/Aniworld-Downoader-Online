@@ -12,7 +12,7 @@ https://aniworld.to/anime/stream/dr-stone/staffel-1/episode-24
 
 # Usage
 
-Go to this Link [here]([https://github.com/Tobidervogel/Aniworld-Downoader-Online/](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing))
+Go to this Link [here](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)
 
 Follow the instructions
 
