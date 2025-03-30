@@ -1,9 +1,5 @@
 # Features
-mertusield
-1Q2w3e4r!
-https://aniworld.to/anime/stream/dr-stone/staffel-1/episode-1
 
-https://aniworld.to/anime/stream/dr-stone/staffel-1/episode-24
 - **Episode Downloads**: Easily download single episodes or entire seasons in one go.
 - **Language Options**: Switch between German Dub, English Sub, or German Sub based on your preference.
 
@@ -12,7 +8,7 @@ https://aniworld.to/anime/stream/dr-stone/staffel-1/episode-24
 
 # Usage
 
-Go to this Link [here]([https://github.com/Tobidervogel/Aniworld-Downoader-Online/](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing))
+Go to this Link [here](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)
 
 Follow the instructions
 
