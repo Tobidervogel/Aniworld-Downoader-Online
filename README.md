@@ -8,7 +8,7 @@
 
 # Usage
 
-Go to this Link [here](https://colab.research.google.com/drive/1--fykIQ9dt6MLqtK77UrhKnpdvHJ07iI#scrollTo=yYDaxlmZmM-i)
+Go to this Link [here](https://colab.research.google.com/drive/1urNFWavQ-tyIByEIFPDUL1qh2pVg1OnR?usp=sharing)
 
 Follow the instructions
 
