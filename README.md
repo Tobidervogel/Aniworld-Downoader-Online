@@ -39,6 +39,7 @@ Contributions to AniWorld Downloader are welcome! Your input helps improve the p
 
 ## Contributors
 - **Tobidervogel** (since November 02, 2024)
+  
 [![wakatime](https://wakatime.com/badge/github/Tobidervogel/Aniworld-Downoader-Online.svg)](https://wakatime.com/badge/github/Tobidervogel/Aniworld-Downoader-Online)
 
 
